@@ -1,3 +1,8 @@
+/** 
+* Write a Java program to print the contents of a twodimensional Boolean array where t represents true, and f represents false. 
+* Sample array: array = {{true, false, true}, {false, true, false}};
+*/
+
 public class BooleanArrayPrint {
 
    public static void main(String[] args) {
